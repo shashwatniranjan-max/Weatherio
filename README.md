@@ -1,50 +1,52 @@
+# 🌦️ Weather App
 
-# Project Title
+A web application that displays real-time weather information using the **OpenWeather API**.  
+This project is based on the original code by **[@Sadee](https://github.com/codewithsadee/weatherio-starter)** (MIT License) and has been **modified by [@shashwatniranjan-max](https://github.com/shashwatniranjan-max)**.
 
-Weatherio is a weather app but better. 
-I am making this project to brush up my design skills and to improve my knowledge over CSS and get comfortable in using APIs.
-## Tech Stack
+---
 
-**Client:** HTML, CSS, JavaScript, API
+## 🧩 Features
 
-## Demo
+- Search for the current weather by city name.  
+- Displays temperature, humidity, wind speed, and weather description.  
+- Modern, responsive, and user-friendly interface.  
+- Dynamic icons that change according to weather conditions.  
+- Automatic update of weather information.  
 
-Insert gif or link to demo
+---
 
-## Features
+## 🛠️ Technologies Used
 
-- Feature 1
-- Feature 2
-- Feature 3
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (ES6+)**  
+- **OpenWeather API**
 
-## Screenshots
+---
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+## 🗂️ Project Structure
+  ```
+    weatherio/
+    │
+    ├── assets/
+    │ ├── css/
+    │ │ └── style.css
+    │ ├── font/
+    │ └── images/
+    │
+    ├── js/
+    │ ├── api.js # Handles API requests
+    │ ├── app.js # Main app logic
+    │ ├── module.js # Helper modules
+    │ └── route.js # Internal routing control
+    │
+    ├── favicon.svg
+    ├── index.html
+    ├── index.txt
+    ├── README.md
+    ├── LICENSE
+    └── style-guide.md
+  ```
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Open with VSCode
-
-```bash
-  code .
-```
-
-Open with live server
-
-```bash
-  npm run start
-```
 
 

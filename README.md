@@ -1,8 +1,8 @@
 
 # Project Title
 
-Weatherio is a weather app but better 
-I am making this project to brush up my design skills and get improve my knowledge over CSS and get comfortable in using APIs.
+Weatherio is a weather app but better. 
+I am making this project to brush up my design skills and to improve my knowledge over CSS and get comfortable in using APIs.
 ## Tech Stack
 
 **Client:** HTML, CSS, JavaScript, API

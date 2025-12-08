@@ -1,8 +1,7 @@
 # 🌦️ Weather App
 
 A web application that displays real-time weather information using the **OpenWeather API**.  
-[![Vercel Deployment](https://img.shields.io/badge/Live%20Demo-Vercel-blue?style=for-the-badge&logo=vercel)](https://weatherio-bice.vercel.app/)
-This project is based on the original code by **[@Sadee](https://github.com/codewithsadee/weatherio-starter)** (MIT License) and has been **modified by [@shashwatniranjan-max](https://github.com/shashwatniranjan-max)**.
+[![Vercel (MIT License) and has been **modified by [@shashwatniranjan-max](https://github.com/shashwatniranjan-max)**.
 
 ---
 

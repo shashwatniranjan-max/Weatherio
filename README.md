@@ -1,7 +1,7 @@
 # 🌦️ Weather App
 
 A web application that displays real-time weather information using the **OpenWeather API**.  
-[![Vercel (MIT License) and has been **modified by [@shashwatniranjan-max](https://github.com/shashwatniranjan-max)**.
+based on original code by [@sadee] modified by [shashwatniranjan-max](https://github.com/shashwatniranjan-max/).
 
 ---
 
